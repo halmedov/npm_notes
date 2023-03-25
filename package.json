@@ -1,0 +1,22 @@
+{
+  "name": "npm_notes",
+  "version": "1.0.0",
+  "description": "npm -(node package manager) notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halmedov/npm_notes.git"
+  },
+  "author": "Bazarbay Halmedov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/halmedov/npm_notes/issues"
+  },
+  "homepage": "https://github.com/halmedov/npm_notes#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
